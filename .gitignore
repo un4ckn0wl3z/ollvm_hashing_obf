@@ -1,0 +1,7 @@
+# Compiled binaries
+protected
+protected_O0
+test_vm
+*.o
+*.exe
+*.out
